@@ -1,0 +1,7 @@
+﻿  funkcije.c
+C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(149,51): warning C4047:  '!=': 'size_t' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(149,51): warning C4047: C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(31) : warning C4715: 'kreiranje': not all control paths return a value
+C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(149,51): warning C4047: C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(69) : warning C4715: 'brojac': not all control paths return a value
+C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(149,51): warning C4047: C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(135) : warning C4715: 'unos': not all control paths return a value
+C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(149,51): warning C4047: C:\Users\Korisnik\Desktop\Program TEST 44\funkcije.c(237) : warning C4716: 'prikaz': must return a value
+  Program TEST 44.vcxproj -> C:\Users\Korisnik\Desktop\Program TEST 44\x64\Debug\Program TEST 44.exe
